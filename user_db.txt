@@ -1,4 +1,3 @@
 {"username": "suru", "password": "suru123", "usertype": "buyer"}
 {"username": "ram", "password": "ram123", "usertype": "seller"}
 {"username": "hari", "password": "hari123", "usertype": "seller"}
-abc
