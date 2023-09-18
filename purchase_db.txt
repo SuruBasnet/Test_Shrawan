@@ -1,0 +1,3 @@
+{"buyer": "suru", "product_name": "waiwai", "total_price": 400, "seller": "ram"}
+{"buyer": "suru", "product_name": "waiwai", "total_price": 600, "seller": "ram"}
+{"buyer": "suru", "product_name": "RaRa", "total_price": 500, "seller": "hari"}
