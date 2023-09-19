@@ -1,15 +1,4 @@
-# Program need (FileHandling)
-# While Registering user Ask the usertype whether he/she is buyer or seller
-# While Login get the user type
-# If usertype while login is buyer he/she can see all the products and he/she can buy all the products.
-# If usertype while login is seller he/her can add products and he/she can see their products sold.
-
-# Task
-# Let the (buyer/seller)user to continue the system even after running a function, but if he/she wants to logout then logout
-# Let the seller view his/her total revenue
-
-# asndbajsbdjs
-# asdnbasjhdbjasbh
+# abc
 
 import json
 
