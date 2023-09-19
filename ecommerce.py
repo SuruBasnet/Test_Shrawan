@@ -8,6 +8,8 @@
 # Let the (buyer/seller)user to continue the system even after running a function, but if he/she wants to logout then logout
 # Let the seller view his/her total revenue
 
+# Buyer related code in this program
+
 import json
 
 def login():
