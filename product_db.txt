@@ -1,3 +1,0 @@
-{"name": "waiwai", "detail": "snack", "price": "20", "seller": "ram"}
-{"name": "RaRa", "detail": "snack", "price": "25", "seller": "hari"}
-{"name": "ChocoChoco", "detail": "Biscuit", "price": "20", "seller": "ram"}
